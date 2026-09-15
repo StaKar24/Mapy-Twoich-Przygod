@@ -1,6 +1,5 @@
 MTP to aplikacja strony internetowej do postowania i przeglądania map wycieczek po świecie napisana przy użyciu leaflet.js, express.js i react (aktualnie używa bazy danych sqlite). 
 Strona używa openrouteservice.org do renderowania tras na mapie.
-http://16.16.182.120/
 
 Stwożyłem ją z myślą o wycieczkach autostopowych. Chciałem mieć miejsce by zapisywać i dzielić się w sposób graficzny moimi podróżami. 
 Pomysł się rozrusł i teraz strona może służyć do zapisywania najróżniejszych wycieczek używających różnych środków transportu.
